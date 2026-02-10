@@ -1,0 +1,8 @@
+{
+  "name": "Lexi - The Neuro-Adaptive Reading Bat",
+  "description": "A multisensory AI reading tutor for children with dyslexia, featuring real-time phonetic feedback, visual mnemonics, and adaptive content scaffolding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
